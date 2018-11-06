@@ -1,0 +1,3 @@
+rootProject.name = 'auzor_rn'
+
+include ':app'
